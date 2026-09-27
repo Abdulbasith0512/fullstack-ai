@@ -1,7 +1,6 @@
 import {
   ArrowUpRight,
   Code2,
-  Database,
   FileText,
   Layers3,
   Menu,
@@ -76,7 +75,7 @@ export default function Page() {
         <div className="hero-grid" aria-hidden="true" />
         <div className="hero-copy">
           <p className="eyebrow"><span className="status-dot" /> Available to build</p>
-          <h1 id="hero-title">Building useful things<br /><em>with code.</em></h1>
+          <h1 id="hero-title">Building Full-Stack &amp; AI Solutions</h1>
           <p className="hero-intro">I&apos;m Abdul Basith Syed, a final-year B.Tech Computer Science student and Full Stack Developer interested in AI and Machine Learning.</p>
           <div className="hero-actions">
             <a className="button button-primary" href="#projects">Explore my work <ArrowUpRight aria-hidden="true" /></a>

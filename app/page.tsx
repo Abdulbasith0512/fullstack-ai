@@ -1,6 +1,7 @@
 import {
   ArrowUpRight,
   Code2,
+  Database,
   FileText,
   Layers3,
   Menu,
